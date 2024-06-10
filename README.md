@@ -15,4 +15,4 @@ When you submit a GET method to the following URL, the short URL is returned in 
 ### T2U: convert Text to URL.
 When you submit a GET method to the following URL, the short URL is returned in plain text format:
 
-**https://kamu.jp/api/short/text/?q=** (Your URL)
+**https://kamu.jp/api/short/text/?q=** (Your Text)
